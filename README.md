@@ -1,6 +1,7 @@
 # Oleya-iOTSensor
 ## (1)Setup Network Information: Pressed [Setup Tab]
-![IMG_2A089F088AEC-1](https://user-images.githubusercontent.com/2010446/137627652-37d7cc33-92c3-4662-ba3e-28207c4b82fb.jpeg)
+  ![setup](https://user-images.githubusercontent.com/2010446/137635225-d1207cc4-4fe5-41e5-a31d-e45371f94b42.png)
+
 ## (2)Key in IP, PORT, USER and Password
       (2.1) Select DIO:
           Select DIO to setup
