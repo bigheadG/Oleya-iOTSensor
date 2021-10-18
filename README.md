@@ -1,5 +1,10 @@
 # Oleya-iOTSensor
 
+   This OLEYA IOT App is an IoT application that allows you to monitor remote site's Sensors data
+   (such as remote site's Temperature, Humidity) with real time graphical interface, 
+   and also allows you to remotely control IO devices' actions. The sensor/control unit configure in Server site.
+   This App doesn't include Server Configuration function. All of the device show on this App is based on Server.
+
 
 
 ## (1)Setup Network Information: Pressed [Setup Tab]
