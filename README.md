@@ -54,8 +54,21 @@
   ![control](https://user-images.githubusercontent.com/2010446/137633743-1367d135-95a9-487e-8009-7798a4e45c59.png)
   
 ## (5) Video Configure Page:
+    (5.0) Set [Video Config Switch] to ON state then Select [Light 5] in Light Control page:
+    (5.1) Enter to Light 5 control page:
+    (5.2) Set [Video Switch] to ON state and Camera pickerView will show all of the remote camera on picker.
+          Once Camera Selected and set [Video Switch] to OFF state. Selected camera will map to Light 5.
+    [Quit] : leave the Light 5 page.
+    
+    [Power Button]: Control the remote device. Orange means remote device is ON state. Gray means remote device is in OFF state. 
+          
+   ![light5](https://user-images.githubusercontent.com/2010446/137688202-b4e26503-bf88-4a6b-ad82-22f313d6ad79.png)
   
+## (6) Show video on Lighting Control Page:
+  (6.1) Set [Video Switch] to ON state and pressed [Light 5] button. The video will show on screen.
   
+  ![camera2](https://user-images.githubusercontent.com/2010446/137689815-f2199253-c622-45cb-a883-36f75443e99d.png)
+
   
 
    
