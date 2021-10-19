@@ -5,9 +5,22 @@
    and also allows you to remotely control IO devices' actions. The sensor/control unit configure in Server site.
    This App doesn't include Server Configuration function. All of the device show on this App is based on Server.
 
-
+   This App includes: DIO(Digital I/O) and DMU(Digital Measure Unit). You can follow will guide you to operate this App.
+   
+   Demo Video:
+   
+   DIO:   
+   Video demo: https://www.youtube.com/watch?v=ZkeKIZ_I_L4
+   
+   DMU:
+   Video demo: https://youtu.be/1Qm9gSglXpg
+   
+  
+  
+# App Operation Guide 
 
 ## (1)Setup Network Information: Pressed [Setup Tab]
+![ch71](https://user-images.githubusercontent.com/2010446/137914875-1fecc781-ee8e-483e-b55d-dfc12e496076.png)
 
   ![ch1](https://user-images.githubusercontent.com/2010446/137754913-5ebd3fd6-dc8e-44d9-adb0-76ce936f8fb7.png)
 
@@ -116,12 +129,26 @@
     (7.7) Pressed [Activative] button to active selected Device.
     
     (7.8) Swipe done the page to leave this page.
+    
+  ![ch71](https://user-images.githubusercontent.com/2010446/137914996-7e80ff8d-88ce-4dae-b66b-187cc3c30b78.png)
 
-  ![ch7](https://user-images.githubusercontent.com/2010446/137748612-37c169ff-9088-47f0-9f1c-e40b95bac535.png)
-
+  
 ## (8) Display Sensors information and Sensor Graph time peroid seting:
    
-   (8.0) pressed [calendar] button will pop up starting time and stop time picker for setting time period
-   (8.1) & (8.2)
-   ![ch8](https://user-images.githubusercontent.com/2010446/137883031-d89402ac-9f69-4737-8461-b44910936464.png)
+      (8.0) pressed [calendar] button will pop up starting time and Ending time picker for setting time period
 
+      (8.1) & (8.2) Setup Starting time and Ending Time for plot waveform.
+      (8.4) Pressed [Save] Button to save Starting time & Ending Time then Swipe done this page.
+      (8.5) From table select sensor to plot history charts.
+   
+ ![ch8](https://user-images.githubusercontent.com/2010446/137906729-586af70e-041f-4d88-b4e4-c382deda0e32.png)
+
+## (9) DM Charts (Real Time Charts):
+
+      (9.0) Pressed [DMCharts]:
+      
+ ![ch9](https://user-images.githubusercontent.com/2010446/137909895-645d3751-596e-46c2-aeda-2516d9a8b1bb.png)
+
+     
+       
+    
