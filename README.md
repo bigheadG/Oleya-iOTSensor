@@ -90,12 +90,13 @@
 
     (7.0) Set [Mode Switch] to DMU mode to setup network information
     (7.1) Fill out the IP, PORT, USER and Password information
-          example: IP: demo1-20170608.asuscomm.com
+          example: IP: demo1-20170526.asuscomm.com
                    PORT: 51400
                    USER: test
                    Password: 123456789111
                              123456789222
                              123456789333
+                             123456789444
 
     (7.2) Pressed [Get Info/Save] to save network information.
           repeat add password and pressed [Get Info/Save]. 
@@ -107,12 +108,20 @@
     
     (7.5) Pressed [Select] to select device(Based on password)
     
-    (7.6) Select demo1-20170608.asuscomm.com/123456789111
-          Select demo1-20170608.asuscomm.com/123456789222
+    (7.6) Select demo1-20170526.asuscomm.com/123456789111
+          Select demo1-20170526.asuscomm.com/123456789222
+          Select demo1-20170526.asuscomm.com/123456789333
+          Select demo1-20170526.asuscomm.com/123456789333
     
     (7.7) Pressed [Activative] button to active selected Device.
     
-    (7.8) Swipe done to leave this page.
+    (7.8) Swipe done the page to leave this page.
 
   ![ch7](https://user-images.githubusercontent.com/2010446/137748612-37c169ff-9088-47f0-9f1c-e40b95bac535.png)
- 
+
+## (8) Display Sensors information and Sensor Graph time peroid seting:
+   
+   (8.0) pressed [calendar] button will pop up starting time and stop time picker for setting time period
+   (8.1) & (8.2)
+   ![ch8](https://user-images.githubusercontent.com/2010446/137883031-d89402ac-9f69-4737-8461-b44910936464.png)
+
