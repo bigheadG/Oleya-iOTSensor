@@ -5,7 +5,7 @@
    and also allows you to remotely control IO devices' actions. The sensor/control unit configure in Server site.
    This App doesn't include Server Configuration function. All of the device show on this App is based on Server.
 
-   This App includes: DIO(Digital I/O) and DMU(Digital Measure Unit). You can follow will guide you to operate this App.
+   This App includes DIO(Digital I/O) and DMU(Digital Measure Unit). You can follow the Operation gudie to operate this App.
    
    Demo Video:
    
