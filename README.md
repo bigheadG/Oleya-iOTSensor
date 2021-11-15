@@ -20,7 +20,7 @@
 # App Operation Guide 
 
 ## (1)Setup Network Information: Pressed [Setup Tab]
-![ch71](https://user-images.githubusercontent.com/2010446/137914875-1fecc781-ee8e-483e-b55d-dfc12e496076.png)
+
 
   ![ch1](https://user-images.githubusercontent.com/2010446/137754913-5ebd3fd6-dc8e-44d9-adb0-76ce936f8fb7.png)
 
